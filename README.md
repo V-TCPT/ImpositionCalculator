@@ -1,6 +1,6 @@
-# Kev's Scoring Calculator
+# Imposition Calculator
 
-**Kev's Scoring Calculator** is a simple, browser-based tool designed to help print professionals and press operators quickly determine precise scoring measurements for multiple documents laid out on a larger sheet.  
+**Imposition Calculator** is a simple, browser-based tool designed to help print professionals and press operators quickly determine precise scoring measurements for multiple documents laid out on a larger sheet.  
 
 This tool is especially useful for jobs like folded business cards, postcards, or other small folded items that don’t feed well through a scoring machine once cut down to their final size. By calculating and visualizing scoring positions before cutting, you can run and score the larger parent sheet reliably and efficiently.
 
